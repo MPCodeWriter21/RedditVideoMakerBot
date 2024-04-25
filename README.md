@@ -81,13 +81,13 @@ I have tried to simplify the code so anyone can read it and start contributing a
 
 Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
 
-### For any questions or support join the [Discord](https://discord.gg/Vkanmh6C8V) server
+### For any questions or support join the [Discord](https://discord.gg/WBQT52RrHV) server
 
 ## Developers and maintainers.
 
 Elebumm (Lewis#6305) - https://github.com/elebumm (Founder)
 
-Jason (JasonLovesDoggo#1904) - https://github.com/JasonLovesDoggo (Maintainer)
+Jason (personality.json) - https://github.com/JasonLovesDoggo (Maintainer)
 
 Simon (OpenSourceSimon) - https://github.com/OpenSourceSimon
 
